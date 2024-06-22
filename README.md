@@ -651,7 +651,7 @@ Array after left rotation 3 time(s)
 6
 ```
 
-# Days56 - Array-Left & Right Rotate
+# Day56 - Array-Left & Right Rotate
 > Write a C program to left rotate an array by n position and right rotate by n position in a menu driven fashion.
 ### [Code_day56.c](https://github.com/sanjaysanju618/100-Days-of-Code/blob/main/day056.c)
 
